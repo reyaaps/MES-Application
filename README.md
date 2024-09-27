@@ -13,4 +13,4 @@ This repository contains the source code for a Manufacturing Execution System (M
 # Backend
 - Node.js: Server-side JavaScript framework for handling API requests and managing data.
 - Express.js: Web framework for building RESTful APIs.
-- MongoDB/MySQL (Optional): Database for storing production and operational data.
+- MySQL (Optional): Database for storing production and operational data.
